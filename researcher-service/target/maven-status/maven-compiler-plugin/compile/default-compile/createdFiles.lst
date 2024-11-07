@@ -1,0 +1,6 @@
+co\edu\cauca\researcher_service\presentation\ResearcherController.class
+co\edu\cauca\researcher_service\services\IResearcherService.class
+co\edu\cauca\researcher_service\access\IResearcherRepository.class
+co\edu\cauca\researcher_service\ResearcherServiceApplication.class
+co\edu\cauca\researcher_service\domain\Researcher.class
+co\edu\cauca\researcher_service\services\ResearcherService.class
